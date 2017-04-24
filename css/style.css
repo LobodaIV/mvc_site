@@ -1,0 +1,30 @@
+.book-item {
+	width: 100px;
+	float: left;
+	border: 1px solid black;
+	height: 200px;
+	margin: 0 0 5px 5px;
+	padding: 10px;
+}
+
+.book-item div {
+	height: 50px;
+	font-weight: bold;
+}
+
+.pagination {
+	clear: left;
+}
+
+.pagination a {
+	text-decoration: none;
+}
+
+input {
+	display: block;
+	margin: 10;
+}
+
+textarea {
+	display: block;
+}
